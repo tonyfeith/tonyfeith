@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Tony
 
-<!--
-**tonyfeith/tonyfeith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我正在学习和实践通信领域的 XDR（Extended Detection and Response），并尝试把零散知识整理成可复用的学习笔记。
 
-Here are some ideas to get you started:
+对我来说，GitHub 不只是代码仓库，也是一个持续记录、整理和复盘的地方。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Currently learning
+
+- 通信网络与安全基础
+- XDR 的核心概念、架构与应用场景
+- 告警分析、检测响应与安全运营
+- 用 AI 和自动化提高学习与工作效率
+
+---
+
+## Notes
+
+- [XDRStudyNotes](https://github.com/tonyfeith/XDRStudyNotes) — 通信 XDR 学习笔记，持续更新中
+
+---
+
+## About this profile
+
+这里会逐步补充我的学习记录、实践项目和有用的工具。目前先从持续写下第一篇笔记开始。
